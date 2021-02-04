@@ -18,8 +18,8 @@
 
  O projeto foi desenvolvido utilizando as seguintes tecnologias :
 
- - Html
+ - HTML
  - CSS
- - Bootstrap 4
- - AOS Anime
+ - BOOTSTRAP
+ - AOS ANIME
  
